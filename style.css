@@ -1,8 +1,10 @@
+/* Google Font: Roboto Mono */
+@import url('fonts.googleapis.com');
+
 body {
-  font-family: Roboto mono; 
+  font-family: 'Roboto Mono', monospace;
   background-color: black;
-  color: #33FF33;
-  margin: 25px;                  
+  color: #33FF33;           
 }
 
 #passwordField {
@@ -11,5 +13,5 @@ body {
   outline: none;          
           
   color: #33FF33;
-  font-family: Roboto mono; 
+  font-family: 'Roboto Mono', monospace;
       }
