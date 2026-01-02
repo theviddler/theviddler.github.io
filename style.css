@@ -1,1 +1,16 @@
+body {
+  font-family: Arial, sans-serif; /* Sets the default font for the page */
+  background-color: #f0f0f0;    /* Sets a light gray background color */
+  margin: 25px;                  /* Adds space around the body content */
+}
 
+h1 {
+  color: navy;                   /* Changes the text color to navy blue */
+  font-size: 35px;               /* Sets the font size */
+  font-weight: normal;           /* Removes default bold weight */
+}
+
+p {
+  color: #333;                   /* Sets a dark gray text color */
+  line-height: 1.5;              /* Increases spacing between lines of text */
+}
